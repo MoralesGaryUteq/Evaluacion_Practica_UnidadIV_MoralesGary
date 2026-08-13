@@ -115,9 +115,9 @@ sudo apt install texlive-latex-base texlive-latex-recommended \
 | P5 | 4 requisitos (RF-01, RF-02, RNF-01, RNF-02) con métricas ISO/IEC 25010:2023 y esquema de atributos |
 | P6 | Priorización MoSCoW justificada |
 | P7 | Lista de comprobación ISO/IEC/IEEE 29148, defectos DF-01…DF-05 y retrabajo |
-| P8 | Pruebas de aceptación trazadas |
-| P9 | Matriz de trazabilidad |
-| P10 | Gestión del cambio y línea base |
+| P8 | No realizado |
+| P9 | No realizado |
+| P10 | No realizado |
 
 ## 8. Notas
 
